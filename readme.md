@@ -11,6 +11,7 @@ A list of your past positions that includes company/place name, title, short des
 A list of your skills
 You can make up information if you'd like
 In your skill list, skills that are "cool" should begin with BAM:
+
 Additional Requirements
 Your name should print in all capital letters, but you must not type it as all capitalized in your code (i.e. you will need to use JavaScript to capitalize it)
 You must have a function called displayPosition that takes parameters for company name, job title, and description. The function should console.log those three items in a format similar to the example below. You will call displayPosition several times with different data.
